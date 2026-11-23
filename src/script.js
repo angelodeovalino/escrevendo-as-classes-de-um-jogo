@@ -1,4 +1,4 @@
-let ataques = require('./ataques.json')
+let ataques = require('../ataques.json')
 
 class heroi{
     constructor(nome, idade, tipo) {
